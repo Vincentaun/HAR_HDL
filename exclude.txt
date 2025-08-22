@@ -1,0 +1,4 @@
+D:\Conference Paper\CNN-LSTM\.conda 
+D:\Conference Paper\CNN-LSTM\cnn_lstm 
+D:\Conference Paper\CNN-LSTM\monitoring_env
+D:\Conference Paper\H36M\H36M\H36M_env
